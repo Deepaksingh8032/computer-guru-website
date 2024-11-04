@@ -1,0 +1,52 @@
+
+
+.top1 h4 {
+    padding: 0px;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.top2{
+    padding: 30px;
+}
+.top2 i {
+    font-size: 30px;
+
+}
+/* navigationbar */
+.nav2 ul {
+    margin-left:70px;
+    font-size: 20px;
+}
+.nav2 ul li {
+    width: 150px;
+}
+
+.faculty{
+    padding: 0px;
+    background-color: rgb(175, 182, 188);
+    height: auto;
+    width: 100%;
+}
+.facultyimages{
+    margin: 0px;
+    padding: 30px;
+    
+}
+.facultyimages h4 {
+    margin-left: 70px;
+    margin-top: -40px;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    height: 500px;
+    color: white;
+}
+.footer ul li a {
+    font-size: 20px;
+    font-style: normal;
+}
+.footer ul li {
+    list-style: none;
+}
